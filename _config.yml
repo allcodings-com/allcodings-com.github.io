@@ -1,6 +1,4 @@
 Yaml
 
 title: allcodings-com
-description: my blog
-theme: jekyll-theme-minial
-encoding: UTF-8
+theme: minima
