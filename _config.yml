@@ -1,2 +1,4 @@
-title: allcodings-com
-theme: minima
+title: QC Microbiology Blog
+description: 제약회사 미생물 QC
+theme: jekyll-theme-minimal
+encoding: UTF-8
