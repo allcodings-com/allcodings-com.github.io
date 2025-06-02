@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About
-permalink: /Pivacy_Policy/
+permalink: /Privacy_Policy/
 ---
 
 Privacy Policy for #####
