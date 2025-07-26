@@ -4,7 +4,7 @@ title: About
 permalink: /Privacy_Policy/
 ---
 
-Privacy Policy for #####
+Privacy Policy for 우리말퀴즈:표준국어대사전
 
 Privacy Policy
 Last updated: May 25, 2025
@@ -24,9 +24,9 @@ Account means a unique account created for You to access our Service or parts of
 
 Affiliate means an entity that controls, is controlled by or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.
 
-Application refers to 우리말 퀴즈:속담과 관용구 편, the software program provided by the Company.
+Application refers to 우리말 퀴즈:표준국어대사전, the software program provided by the Company.
 
-Company (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to 우리말 퀴즈:속담과 관용구 편.
+Company (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to 우리말 퀴즈:표준국어대사전.
 
 Country refers to: South Korea
 
@@ -143,4 +143,4 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 Contact Us
 If you have any questions about this Privacy Policy, You can contact us:
 
-By email: #####@gmail.com
+By email: shinwis@gmail.com
